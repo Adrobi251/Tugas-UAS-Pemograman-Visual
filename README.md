@@ -2,14 +2,6 @@
 
 # Manual Book - Petunjuk Pengguna Aplikasi Sistem Informasi Kursus Komputer
 
-| Info | Detail |
-|------|--------|
-| Versi | 1.0 |
-| Tanggal | Juli 2026 |
-| Dibuat oleh | Boas Ganteng |
-| Platform | Java Swing (Desktop Application) |
-| Database | MySQL (db_kursus) |
-
 ## Daftar Isi
 
 1. Pendahuluan
