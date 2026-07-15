@@ -70,7 +70,7 @@ public class Tambahpembayaran extends javax.swing.JPanel {
         jLabel1.setFont(new java.awt.Font("Segoe UI", 1, 14)); // NOI18N
         jLabel1.setText("Tambah Pembayaran");
 
-        jLabel2.setText("Nama Peserta");
+        jLabel2.setText("ID Peserta");
 
         jLabel3.setText("Pilih Kursus");
 
