@@ -2,34 +2,6 @@
 
 # Manual Book - Petunjuk Pengguna Aplikasi Sistem Informasi Kursus Komputer
 
-## Daftar Isi
-
-1. Pendahuluan
-2. Persyaratan Sistem
-3. Instalasi & Konfigurasi Database
-4. Menjalankan Aplikasi
-5. Halaman Login
-6. Panel Admin (Dashboard)
-   - 6.1 Dashboard Utama
-   - 6.2 Data Peserta
-   - 6.3 Data Instruktur
-   - 6.4 Data Kursus
-   - 6.5 Jadwal Kursus
-   - 6.6 Pendaftaran
-   - 6.7 Pembayaran
-   - 6.8 Logout
-7. Panel Owner
-   - 7.1 Dashboard Owner
-   - 7.2 Laporan Peserta
-   - 7.3 Laporan Instruktur
-   - 7.4 Laporan Kursus
-   - 7.5 Laporan Pendaftaran
-   - 7.6 Laporan Pembayaran
-   - 7.7 Logout
-8. Akun Default
-9. Struktur Database
-10. Troubleshooting / FAQ
-
 ## 1. Pendahuluan
 
 Aplikasi Sistem Informasi Kursus Komputer adalah aplikasi desktop berbasis Java Swing yang dirancang untuk mengelola operasional sebuah lembaga kursus komputer. Aplikasi ini mencakup pengelolaan data peserta, instruktur, kursus, jadwal, pendaftaran, dan pembayaran.
